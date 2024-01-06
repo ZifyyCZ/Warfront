@@ -1,0 +1,12 @@
+{
+  "servers": [
+    {
+      "name": "Official Europe server",
+      "ip": "135.181.129.143",
+      "port": 25572,
+      "verified": true,
+      "dev": false,
+      "region": "eu"
+    }
+  ]
+}
