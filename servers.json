@@ -6,7 +6,8 @@
       "port": 25572,
       "verified": true,
       "dev": false,
-      "region": "eu"
+      "region": "eu",
+      "gamemode": "invasion"
     }
   ]
 }
