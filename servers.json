@@ -17,6 +17,15 @@
       "dev": true,
       "region": "eu",
       "gamemode": "invasion"
+    },
+    {
+      "name": "Dev server 2",
+      "ip": "135.181.129.143",
+      "port": 25572,
+      "verified": true,
+      "dev": true,
+      "region": "eu",
+      "gamemode": "invasion"
     }
   ]
 }
