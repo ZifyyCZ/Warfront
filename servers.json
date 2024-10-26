@@ -2,7 +2,7 @@
   "servers": [
     {
       "name": "Official Europe server",
-      "ip": "4.tcp.eu.ngrok.io:14705",
+      "ip": "5.tcp.eu.ngrok.io:10262",
       "port": 25572,
       "verified": true,
       "dev": false,
