@@ -1,12 +1,12 @@
 {
   "servers": [
     {
-      "name": "Official Europe server",
-      "ip": "2.tcp.eu.ngrok.io:19074",
-      "port": 19074,
+      "name": "Official NA server",
+      "ip": "23.153.72.34:27003",
+      "port": 27003,
       "verified": true,
       "dev": false,
-      "region": "eu",
+      "region": "na",
       "gamemode": "invasion"
     }
   ]
