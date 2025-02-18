@@ -7,7 +7,8 @@
       "verified": true,
       "dev": false,
       "region": "na",
-      "gamemode": "invasion"
+      "gamemode": "invasion",
+      "wfversion": "20250218.1"
     }
   ]
 }
