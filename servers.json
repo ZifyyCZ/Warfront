@@ -2,7 +2,7 @@
   "servers": [
     {
       "name": "Official NA server",
-      "ip": "23.153.72.34:27003",
+      "ip": "23.153.72.34:27000",
       "port": 27003,
       "verified": true,
       "dev": false,
